@@ -1,0 +1,14 @@
+body {
+    background: #b3c9da;
+}
+
+* {
+    font-family: sans-serif;
+}
+
+img {
+    border: 2px dashed #303559;
+    display: block;
+    margin: 20px 0 0 0;
+    width: 200px;
+}
