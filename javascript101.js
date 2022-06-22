@@ -21,6 +21,7 @@ const objects = {
   },
 };
 
+// const sayHiTo = someone => {
 function sayHiTo(someone) {
 
   if (!someone || typeof someone !== 'string') {
@@ -65,6 +66,8 @@ function sayHiTo(someone) {
 // console.log(`Eu tenho o gato ${gato}`);
 // });
 
+// const sayHiTo = someone => console.log(`Hi ${someone}`);
+
 const cats = [
   { name: 'Luigi', gender: 'MALE' },
   { name: 'Katita', gender: 'FEMALE' },
@@ -74,7 +77,7 @@ const cats = [
   { name: 'Pirralho', gender: 'MALE' },
 ];
 
-cats.forEach(function(cat) {
+cats.forEach(cat => {
 
   // let theCat;
 
