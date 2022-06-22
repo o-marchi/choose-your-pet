@@ -1,24 +1,4 @@
 
-console.log('It works');
-
-// const onelio = {
-//     name: 'Onelio',
-//     age: 32,
-//     job: 'software dev',
-//     friends: [
-//         {
-//             name: 'Marco',
-//         },
-//         {
-//             name: 'Oyama',
-//         },
-//     ],
-// };
-
-// const marco = onelio.friends.find(friend => friend.name === 'Marco');
-
-// console.log(marco.name);
-
 const animals = [
   {
     name: 'Dog',
@@ -65,12 +45,3 @@ function createMenu() {
 
 createMenu();
 
-// function showDog() {
-//     const dog = document.getElementById('dog');
-//     const cat = document.getElementById('cat');
-//     const iguana = document.getElementById('iguana');
-
-//     cat.classList = [];
-//     iguana.classList = [];
-//     dog.classList = [ 'visible' ];
-// }
