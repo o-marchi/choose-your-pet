@@ -25,6 +25,11 @@ function cleanImageElement() {
   imageElement.innerHTML = '';
 }
 
+// DOM
+// Document Object Model
+
+// Virtual DOM
+
 function createMenu() {
   animals.forEach(animal => {
     const button = document.createElement('button');
@@ -44,4 +49,12 @@ function createMenu() {
 }
 
 createMenu();
+
+setTimeout(() => {
+  console.log('oi');
+
+  animals[0].name = 'Cachorro';
+
+  console.log(animals);
+}, 3000);
 
