@@ -1,0 +1,19 @@
+{
+  "name": "choose-your-pet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o-marchi/choose-your-pet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o-marchi/choose-your-pet/issues"
+  },
+  "homepage": "https://github.com/o-marchi/choose-your-pet#readme"
+}
