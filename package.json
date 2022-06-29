@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/o-marchi/choose-your-pet/issues"
   },
-  "homepage": "https://github.com/o-marchi/choose-your-pet#readme"
+  "homepage": "https://github.com/o-marchi/choose-your-pet#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
